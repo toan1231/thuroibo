@@ -1,0 +1,4 @@
+2023-01-06 10:12:54,590 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2023-01-06 10:12:54,652 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2023-01-06 10:29:46,909 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (since Google Chrome 108 is installed in your machine)
+2023-01-06 10:29:46,941 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\108.0.5359.71\chromedriver.exe
